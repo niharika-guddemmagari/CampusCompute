@@ -243,7 +243,7 @@ Implementation and Development
  Developed the Banker's Algorithm to check safe and unsafe states.
  Combined the different modules to make the project work as a complete system.
 
- NIHARIKA G,PES1UG25CS193
+ GUDDEMMA GARI NIHARIKA,PES1UG25CS193
 
  Testing and Validation
 
